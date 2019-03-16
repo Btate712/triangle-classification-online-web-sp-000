@@ -24,4 +24,5 @@ class Triangle
       "You've entered dimensions for an imposible triangle!  The sum of the lengths of "
       "any two sides must be greater than the length of the remaining side."
     end
+  end
 end
